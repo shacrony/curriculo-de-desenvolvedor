@@ -1,4 +1,4 @@
-# curriculoDeDesenvolvedor
+# curriculo-de-desenvolvedor
 apenas uma ideia sobre como montar um curriculo diferente na area de TI
 
 function myResume () {
